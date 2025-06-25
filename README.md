@@ -25,9 +25,14 @@
 
 ### 美图分享
 
-- <a href=" https://app.zichen.zone/api/acg/api.php"><code><img height="100" width="200" src=" https://app.zichen.zone/api/acg/api.php"></code></a>
-<br><br><br>
-
+<div style="text-align: center;padding: 40px">
+   <img
+      src="https://t.alcy.cc/pc/"
+      alt="看图"
+      width="600px"
+      height="400px"
+    />
+    </div>
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Risun666&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

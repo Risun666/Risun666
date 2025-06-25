@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="[https://music.163.com/#/artist?id=98284262"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15 万阅读。
+- <a href="[https://music.163.com/#/artist?id=98284262"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：新晋音乐人，多多支持。
 
 ### **技术栈:**
 

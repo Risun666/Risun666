@@ -25,7 +25,7 @@
 
 ### 开源项目
 
-[![]( https://app.zichen.zone/api/acg/api.php)](https://github.com/Risun666/mp4To4K-rust)
+[![][( https://app.zichen.zone/api/acg/api.php)]( https://app.zichen.zone/api/acg/api.php)
 <br><br><br>
 
 ### Github 活跃度

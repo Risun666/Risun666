@@ -25,7 +25,7 @@
 
 ### 美图分享
 
-<a href=" https://app.zichen.zone/api/acg/api.php"><code><img height="50" width="50" src=" https://app.zichen.zone/api/acg/api.php"></code></a>
+- <a href=" https://app.zichen.zone/api/acg/api.php"><code><img height="100" width="200" src=" https://app.zichen.zone/api/acg/api.php"></code></a>
 <br><br><br>
 
 ### Github 活跃度

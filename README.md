@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Risun666?theme=rule34">
 
-## 前端工程师—天平
+## 赵大阳的个人主页
 
 热爱前端、热爱技术。
 
@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://music.163.com/#/artist?id=98284262"><code><img height="20" width="50" src="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg"></code></a>：新晋音乐人，多多支持。
+- <a href="https://music.163.com/#/artist?id=98284262"><code><img height="50" width="50" src="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg"></code></a>：新晋音乐人，多多支持。
 
 ### **技术栈:**
 

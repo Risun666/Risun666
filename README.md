@@ -28,7 +28,7 @@
 
 <div style="text-align: center;padding: 40px">
    <img
-      src="https://t.alcy.cc/ycy"
+      src="https://img.xjh.me/random_img.php"
       alt="看图"
       width="600px"
       height="400px"

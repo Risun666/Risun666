@@ -23,6 +23,8 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
+
+<p>
 ### 美图分享
 
 <div style="text-align: center;padding: 40px">
@@ -33,6 +35,9 @@
       height="400px"
     />
     </div>
+    
+    </p>
+    
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Risun666&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -25,7 +25,7 @@
 
 ### 美图分享
 
-[![][( https://app.zichen.zone/api/acg/api.php)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href=" https://app.zichen.zone/api/acg/api.php"><code><img height="50" width="50" src=" https://app.zichen.zone/api/acg/api.php"></code></a>
 <br><br><br>
 
 ### Github 活跃度

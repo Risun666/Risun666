@@ -23,9 +23,9 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### 美图分享
 
-[![][( https://app.zichen.zone/api/acg/api.php)]( https://app.zichen.zone/api/acg/api.php)
+[![][( https://app.zichen.zone/api/acg/api.php)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br><br>
 
 ### Github 活跃度

@@ -28,7 +28,7 @@
 
 <div style="text-align: center;padding: 40px">
    <img
-      src="http://www.98qy.com/sjbz/api.php"
+      src="https://t.alcy.cc/"
       alt="看图"
       width="600px"
       height="400px"

@@ -1,14 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:Risun666?theme=rule34">
 
 ## 赵大阳的个人主页
-<div style="background-color: #f1f1f1; text-align: center; padding: 40px">
-    <img
-      src="https://q1.qlogo.cn/g?b=qq&nk=3073020053&s=640"
-      alt="赵旭阳"
-      width="80px"
-      height="80px"
-    />
-  </div>
+
 热爱前端、热爱技术。
 
 ### **社交主页：**
